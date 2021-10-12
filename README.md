@@ -1,12 +1,12 @@
 # Hi Variant! 👋
 
-Perkenalkan namasaya **Andy Pratama Julianto**.\
+Perkenalkan namasaya **Andy Pratama Julianto**.
 
-Saya Seorang **UI/UX Design dan Front-End**
+Saya Seorang **UI/UX Design dan Front-End**.
 
 Saya sudah belajar secara otodidak sejak tahun Maret-2020
 
-Jiika tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/andcandy_/)ku ya.
+Jiika tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/andcandy_/) ku ya.
 <!--
 **AndyPratama-FE/AndyPratama-FE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
